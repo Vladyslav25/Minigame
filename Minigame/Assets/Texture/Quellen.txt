@@ -1,0 +1,4 @@
+Brick: https://opengameart.org/content/dirty-brick-seamless-texture-with-normalmap
+Gras: https://www.textures.com/download/grass0130/38953
+Portal: https://minecraft-de.gamepedia.com/Netherportal
+Stone: https://www.pinterest.de/pin/291748882093248475/
